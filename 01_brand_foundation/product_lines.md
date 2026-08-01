@@ -4,6 +4,19 @@
 
 The brand's core, highest-volume product. Sold in multiple colorways.
 
+**Pricing (live Aug 2026):** Sale $69.99 | Regular $124.99
+**Product page:** https://ellisonandfitz.com/products/fluid-pant
+
+**Product images by colorway:**
+- Dark Grey: https://ellisonandfitz.com/cdn/shop/files/file_000000002fe4720e8333dae63c278251.png
+- Light Grey: https://ellisonandfitz.com/cdn/shop/files/file_000000006a68720e99ec6af147afd958.png
+- White: https://ellisonandfitz.com/cdn/shop/files/file_00000000dbfc720eaa07225e25089d76.png
+- Black: https://ellisonandfitz.com/cdn/shop/files/file_000000001d34720eab26d91891e99236.png
+- Mixed Color: https://ellisonandfitz.com/cdn/shop/files/Screenshot_2026-05-19_at_1.09.49_PM.png
+- Royal Blue: https://ellisonandfitz.com/cdn/shop/files/Screenshot_2026-05-19_at_1.02.27_PM.png
+- Fluorescent Green: https://ellisonandfitz.com/cdn/shop/files/Screenshot_2026-05-19_at_1.14.21_PM.png
+- Violet Blue: https://ellisonandfitz.com/cdn/shop/files/Screenshot_2026-05-19_at_1.15.43_PM.png
+
 **Top sellers by order volume (historical):**
 | Colorway | Approx. orders |
 |---|---|
