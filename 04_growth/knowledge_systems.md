@@ -17,9 +17,9 @@ modules) — via Whisper.
 `kevinc710.github.io/ef-sops/` — single `index.html` file, embedded in
 Notion. Claude cannot push to it directly without a GitHub PAT.
 
-## This Parker Brain repo
+## This E&F Brand Brain repo
 
-This repo (`parker-brain/ellisonandfitz-ellison-and-fitz`) is a separate,
-purpose-built knowledge base for Parker — distinct from the Second Brain
+This repo (`ellisonandfitz-parker-brain`) is a separate,
+purpose-built knowledge base for the E&F agent — distinct from the Second Brain
 transcripts and the SOP hub above. It should stay focused on structured
 brand/operations knowledge rather than raw transcripts.

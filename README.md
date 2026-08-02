@@ -1,6 +1,6 @@
-# Ellison & Fitz — Parker Brain
+# Ellison & Fitz — Brand Brain
 
-This repository is the persistent brand knowledge base ("Parker Brain") for
+This repository is the persistent brand knowledge base for
 **Ellison & Fitz** (legal entity: DTC Commerce Group LLC), a Shopify-based
 hybrid dropshipping and branded apparel brand.
 

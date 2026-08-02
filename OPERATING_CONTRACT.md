@@ -1,11 +1,11 @@
 # Operating Contract
 
-This document governs how Parker (and any AI agent) should use and maintain
+This document governs how the E&F agent (and any AI agent) should use and maintain
 this brand knowledge base.
 
 ## Purpose
 
-Give Parker durable, structured context on Ellison & Fitz so answers about
+Give the E&F agent durable, structured context on Ellison & Fitz so answers about
 suppliers, products, creative direction, finances, and open initiatives
 don't need to be re-explained each session.
 
