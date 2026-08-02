@@ -33,3 +33,7 @@ Product-led, motion-first video ads. The fabric itself is the hero.
 - Personal brand monetization strategy explored separately (Discord
   community funnel, paid tier, merch drops, digital products) — adjacent to
   but distinct from Ellison & Fitz's own creative pipeline.
+
+## Product-Specific Creative Memory
+As of August 2026, creative intelligence is tracked on a per-product basis to build modular asset libraries.
+- **Ellison Fluid Pant:** See `products/fluid_pant.md` for the active prompt philosophy and tiering.
