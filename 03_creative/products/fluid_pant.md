@@ -384,35 +384,117 @@ For every ad that runs, record:
 
 ## 11. Editor Instructions (Daniela)
 
-### The Most Important Rule
+### The Objective
 
-> Do not try to make "good videos." Try to isolate **winning visual moments**.
+> We have a library of ~250 clips. Your job is **not** to make beautiful fashion edits.
 >
-> Every ad should revolve around **one memorable shot**. The other shots only exist to support that hero moment. That is exactly what the original Fluid Pant winner did — it had one or two unforgettable visual moments that carried the entire creative.
+> Your job is to discover the highest-performing Meta creatives.
+>
+> Every edit should answer one question: **"Would this stop someone scrolling before they even know what brand they're looking at?"**
+>
+> If the answer is no, change the edit.
+
+---
+
+### The Product Is The Hero
+
+The pants must always be the first thing people notice. The model supports the product. The product does not support the model.
+
+When in doubt: **more pants, less person.**
+
+---
+
+### Build Frameworks, Not One-Off Ads
+
+Do not make 20 completely different ads. Instead, build 5 editing frameworks. Each framework is reusable by swapping clips.
+
+For each framework, create **Version A, Version B, and Version C**. Only change:
+- The opening hook
+- The pacing
+- The ending
+
+Reuse footage. Do not reinvent the ad.
+
+---
+
+### The 5 Frameworks
+
+**Framework 1 — Product Discovery**
+Goal: Create curiosity.
+Sequence: Macro pleat texture → Slow reveal → Walking → End on silhouette
+
+**Framework 2 — Movement**
+Goal: Show why these pants move differently.
+Sequence: Low angle → Wide stride → Pivot → Walk away
+
+**Framework 3 — Texture**
+Goal: Show premium construction.
+Sequence: Hands → Pleats → Waistband → Walking
+
+**Framework 4 — Architecture**
+Goal: Editorial minimalism.
+Sequence: Concrete background → Walking → Side profile → Detail shot
+
+**Framework 5 — POV**
+Goal: Viewer feels like they're wearing the pants.
+Sequence: Looking down → Pocket → Walking → Mirror
+
+---
+
+### The 5 Editing Rules
+
+**Rule 1 — First second matters most.**
+If the first frame is not interesting, start later. Never include static posing, adjusting clothing, or unnecessary setup. Movement should already be happening.
+
+**Rule 2 — One idea per ad.**
+Do not try to communicate comfort, travel, quality, texture, and movement all in one video. Each ad focuses on **one idea only**.
+
+**Rule 3 — Show the product.**
+Ask yourself: could this be any pair of pants? If yes, find better clips. We are selling pleats, drape, texture, color shift, and silhouette. Not simply "pants."
+
+**Rule 4 — Edit for Meta.**
+Do not edit like a fashion film. Edit like a native Instagram Reel. Slightly raw is okay. Sometimes imperfect performs better than perfect.
+
+**Rule 5 — Pace.**
+Remove dead time. Every second should either reveal something new, increase curiosity, or demonstrate the product.
+
+---
+
+### The Most Important Instruction
+
+> **Do not edit chronologically. Edit emotionally.**
+>
+> Start with the strongest shot in the entire library — even if it happened halfway through the raw clip. Then build the rest of the edit around that moment. The goal is to hook the viewer immediately, not to preserve the natural sequence of the footage.
+
+---
+
+### Pre-Export Checklist
+
+Before exporting any ad, answer all four questions:
+
+- [ ] Are the pants the first thing people notice?
+- [ ] Does the first second create curiosity?
+- [ ] Does this demonstrate something unique about the Fluid Pant?
+- [ ] Would I stop scrolling?
+
+If any answer is no, keep editing.
+
+---
 
 ### Order of Operations
 
 1. **Grade the GOLD clips** — Watch all 50 and score them on the 4 scroll-stop questions in the workbook. Note where you disagree with the AI scores.
 2. **Build one master edit per framework** — 5 edits total. Not 20 different ads.
 3. **Ask of each master:** Does this have one unforgettable visual moment? If yes, it is your master. If no, swap clips until you find the hero moment.
-4. **Generate 5 variations per framework** — Different opening, first frame, ending, pacing, text overlay.
+4. **Generate 3 variations per framework (A/B/C)** — Different opening hook, pacing, and ending only.
 5. **Log every result** in the Performance Feedback Loop tab of the workbook.
 6. **Update the Heatmap** after each batch with real win rates.
 
-### Editing Rules
-
-| Rule | Instruction |
-|---|---|
-| Sound off test | Every ad must make sense with no sound. The visual tells the entire story. |
-| One idea only | Texture OR movement OR silhouette. Never combine in one 7-second ad. |
-| First frame is everything | If the first frame does not stop the scroll, nothing else matters. |
-| No text overlays | Unless explicitly specified in the brief. |
-| No logo until end frame | If included at all. |
-| Default transition | Hard cut. Only use speed ramps or freeze frames when explicitly noted. |
+---
 
 ### Deliverable Format
 
 - **Dimensions:** 9:16 vertical (1080×1920)
 - **Export:** H.264, MP4, 30fps, highest quality
-- **Naming:** `EF_FW[1-5]_[Concept]_v[version].mp4` — e.g., `EF_FW1_Discovery_v1.mp4`
+- **Naming:** `EF_FW[1-5]_[Concept]_v[A/B/C].mp4` — e.g., `EF_FW1_Discovery_vA.mp4`
 - **Delivery:** Upload to Google Drive → [📁 E&F Creative Asset Library](https://drive.google.com/drive/folders/1eZd3mSv2bxt-nyvqQ4ULlXSf6VhvLWPZ) → 📺 Ads — Batch 1
