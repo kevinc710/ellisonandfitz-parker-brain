@@ -703,3 +703,108 @@ If the answer to any is no, revise the edit.
 **Native feel:** Slot 2 starts 0.05s early (slightly imperfect entry).
 
 ---
+
+---
+
+## §14 — Hook Tournament Framework
+
+> **The strategic shift:** Stop optimizing ads. Optimize hooks. One good hook can support dozens of different ads. The winning hook becomes the opening language for every future Fluid Pant ad.
+
+### The Benchmark Question
+
+> *"Which hook immediately communicates that these are not ordinary pants, while making me curious enough to keep watching?"*
+
+This is a stricter standard than "which hook makes you want to see more." A hook can be visually interesting without reinforcing the product's differentiator. The best hooks for Ellison & Fitz must do both at once: create curiosity **and** hint at the pleats, drape, color shift, or silhouette that make the Fluid Pant unique.
+
+---
+
+### The Tournament Structure
+
+**Round 1 — All 11 Hooks**
+
+Run all 11 hooks with equal budget. Measure Thumb Stop Rate and 3-second Hold Rate only. Kill 8. Keep 3.
+
+**Round 2 — 5 Variations of Each Top 3**
+
+Take the top 3 hooks from Round 1. Run all 5 variations of each (15 total). Same budget per variation. Identify the single best variation of each hook.
+
+**Round 3 — The Winner**
+
+The winning hook becomes the opening language for every future Fluid Pant ad. Document it. Never guess the first second again.
+
+---
+
+### Round 1 — Predicted Rankings (Pre-Test)
+
+| Rank | Hook | Why |
+|---|---|---|
+| 🥇 1 | H01 — Extreme Pleat Macro | Strongest visual puzzle. Highest chance of "What am I looking at?" |
+| 🥈 2 | H04 — Color Shift | The product's biggest differentiator. Very few pants create this optical effect. |
+| 🥉 3 | H03 — Low Angle Stride | Makes the silhouette dramatic and emphasizes movement. |
+| 4 | H05 — Hand Brush | Great tactile cue. Works especially well with fabric sounds. |
+| 5 | H02 — Pocket Interaction | Authentic and native. Less curiosity than H01. |
+| 6 | H10 — Walk-By / Knee Lift | Energetic, but risks becoming "just another walking clip." |
+| 7 | H09 — Side Silhouette | Good support shot, weaker as primary hook. |
+| 8 | H08 — Mirror Reflection | Mirror can become the focal point instead of the pants. |
+| 9 | H07 — Hem in Motion | Nice detail, too subtle as an opener. |
+| 10 | H06 — Waistband | Useful within an ad, not as a first frame. |
+| New | H11 — Impossible Crop | Test vs H01. Goal is delayed recognition, not just texture. |
+
+---
+
+### H11 — Impossible Crop (New Addition)
+
+Different from H01. H01 shows texture. H11 delays recognition entirely.
+
+The first frame is so tight the viewer genuinely cannot identify the object. Not macro — abstract. Then 0.8 seconds later: "Oh... they're pants."
+
+**How it was built:** Two-part clip. Part 1 (0.8s): IMG_0491 at 2.5× zoom, crop shifted off-center to hit the fold crease — the geometry is disorienting, the color shift is present but the object is unidentifiable. Part 2 (0.8s): same clip, pull back to 1.4× — the reveal.
+
+---
+
+### Round 2 — 15 Variations (H01, H04, H03)
+
+**H01 — Extreme Pleat Macro**
+
+| Variation | File | What Changes |
+|---|---|---|
+| A (control) | H01A_Macro_Static.mp4 | Baseline — 1.7× static, 1.5s |
+| B | H01B_Macro_Pan.mp4 | Simulated slow rightward pan — slight movement |
+| C | H01C_Macro_HardLight.mp4 | IMG_0519 — cyan rim light, harder directional light |
+| D | H01D_Macro_Fast.mp4 | 0.8s only — cut away before the viewer fully processes it |
+| E | H01E_Macro_Slow.mp4 | 2.0s — lingers, lets the texture breathe |
+
+**H04 — Color Shift**
+
+| Variation | File | What Changes |
+|---|---|---|
+| A (control) | H04A_ColorShift_Current.mp4 | Baseline — IMG_0519, 1.4×, 1.5s |
+| B | H04B_ColorShift_Step.mp4 | IMG_0556 — step/shift reveals gradient |
+| C | H04C_ColorShift_UltraTight.mp4 | 1.7× — gradient fills entire frame |
+| D | H04D_ColorShift_Slow.mp4 | 2.0s — hold on the shift longer |
+| E | H04E_ColorShift_MidLeg.mp4 | IMG_0580 — different angle, mid-leg |
+
+**H03 — Low Angle Stride**
+
+| Variation | File | What Changes |
+|---|---|---|
+| A (control) | H03A_Stride_Current.mp4 | Baseline — IMG_0543, lower+tight, 1.5s |
+| B | H03B_Stride_Faster.mp4 | 1.15× speed — more energy, more native |
+| C | H03C_Stride_AltClip.mp4 | IMG_0512 — different stride energy |
+| D | H03D_Stride_UltraTight.mp4 | 1.7× — waist-to-knee only, more dramatic |
+| E | H03E_Stride_Wide.mp4 | Standard crop — full silhouette, more context |
+
+---
+
+### Key Metrics — In Order of Priority
+
+Track in this order. Do not optimize for CPP before the hook is validated.
+
+| Metric | Target | What It Tells You |
+|---|---|---|
+| **Thumb Stop Rate** | >30% | Is the first frame stopping the scroll? |
+| **3s Hold Rate** | >50% | Did the hook hold attention past the decision point? |
+| **CTR** | Benchmark vs account avg | Are curious viewers clicking? |
+| **CPP** | Minimize | Ultimate metric — only optimize after Round 2 |
+
+---
