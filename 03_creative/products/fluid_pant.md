@@ -498,3 +498,99 @@ If any answer is no, keep editing.
 - **Export:** H.264, MP4, 30fps, highest quality
 - **Naming:** `EF_FW[1-5]_[Concept]_v[A/B/C].mp4` — e.g., `EF_FW1_Discovery_vA.mp4`
 - **Delivery:** Upload to Google Drive → [📁 E&F Creative Asset Library](https://drive.google.com/drive/folders/1eZd3mSv2bxt-nyvqQ4ULlXSf6VhvLWPZ) → 📺 Ads — Batch 1
+
+---
+
+## §12 — Hook-First Editing Philosophy (Updated)
+
+> **The shift:** Stop thinking "edit videos." Start thinking "build hooks." Every ad starts with a hook. Everything after the hook supports the hook.
+
+### The Core Principle
+
+Spend **80% of your effort on the first second.** The footage is polished enough. The product looks excellent. The competitive advantage now comes from engineering a first second that is impossible to ignore.
+
+The question is no longer: *"Is this a good-looking ad?"*
+
+The question is: *"Does the first second make it impossible to scroll?"*
+
+---
+
+### The 5 Hook Sequences
+
+Every edit begins by selecting one of these five hook sequences. The rest of the edit is built around the hook.
+
+| Hook | Sequence | First Frame Principle |
+|---|---|---|
+| **Hook 1 — Extreme Pleats** | Extreme pleats → Reveal waistband → Walk | Open so close the viewer cannot identify the garment. Curiosity before recognition. |
+| **Hook 2 — Pocket** | Pocket → Walking → Wide silhouette | The hand gesture reads as native and organic. The pocket is the entry point to the product. |
+| **Hook 3 — Color Shift** | Color shift → Turn → Side profile | Lead with the most visually unusual attribute. The color shift is what makes these pants different from every other wide-leg trouser. |
+| **Hook 4 — Low Angle** | Low angle → Stride → Architecture | The low angle makes the pants feel monumental. The architecture of the environment amplifies the silhouette. |
+| **Hook 5 — Texture** | Texture → Silhouette → End | Start with the fabric surface. End with the shape. The edit is a journey from micro to macro. |
+
+---
+
+### Native Feel — Intentional Imperfection
+
+These edits should feel **beautiful and native** — not beautiful and polished. The footage is already polished. The edit can afford to feel more spontaneous.
+
+Introduce intentionally:
+
+- **Quicker cuts** — not every slot needs 2 full seconds. Some cuts at 1.3–1.5s create energy.
+- **Occasional handheld movement** — if a clip has slight camera movement, do not cut it out. It reads as real.
+- **Slightly imperfect timing** — trim points do not always need to be at the cleanest frame. Starting 3–5 frames early on a gesture reads as caught-in-the-moment.
+
+---
+
+### The Hook Library — What to Build Before Building Ads
+
+Before building any new ad, the editor should first select a hook from the Hook Library. The Hook Library is a catalogue of the best first-second moments in the GOLD clip library, organized by hook type.
+
+**Current Hook Library (Fluid Pant — August 2026 batch):**
+
+| Hook Type | Best Clip | Source Timestamp | Why |
+|---|---|---|---|
+| Extreme Macro Pleat | IMG_0491.MOV | 1.0s | Tightest dual-tone pleat highlight. At 1.4× zoom, the garment is unidentifiable. |
+| Texture Pull | IMG_0526.MOV | 0.95s | Model pulls fabric — discovery gesture reveals pleat detail and color shift. |
+| Waistband Reveal | IMG_0572.MOV | 0.7s | Shirt lifted to reveal waistband and pronounced pleat texture from above. |
+| Pocket | IMG_0569.MOV | 0.9s | Hand slides into pocket while light catches the pleats. Most native-feeling hook. |
+| Side Silhouette | IMG_0686.MOV | 0.4s | Full-length view — wide-leg silhouette reads immediately. Maximum context from frame 1. |
+| Color Shift Close | IMG_0519.MOV | 0.7s | Cyan rim light against pink base. The color shift is the only clue. |
+| Stride / Mid-Walk | IMG_0543.MOV | 0.6s | Mid-stride with pleats fanning. "These pants look different" from frame 1. |
+| Knee Lift | IMG_0681.MOV | 1.3s | Model lifts knee and grips trouser. Most physically energetic opening. |
+| Mirror | IMG_0575.MOV | 1.5s | Hand tugs fabric while mirror reflection sits above. Dual perspective. |
+| Slow Walk Reveal | IMG_0502.MOV | 1.0s | Legs separate — pleats fan open fully, color gradation most visible. |
+| Step/Shift | IMG_0556.MOV | 0.8s | Weight shift reveals color gradient and pleat movement simultaneously. |
+
+**To expand the Hook Library:** Every new batch of footage should be reviewed specifically for hook candidates before any editing begins. A hook candidate is any clip where the first 1–1.5 seconds contains a single, visually arresting moment that communicates the product's core differentiator.
+
+---
+
+### The Hook Test — 5 Variants of the Same Edit
+
+The most efficient way to find the winning hook is to run **5 variants of the same edit where only the first second changes.** Everything after the hook is identical. This isolates the hook variable completely.
+
+**August 2026 Hook Test (Framework 1 — Product Discovery):**
+
+| Variant | File | Hook | First Clip | Timestamp |
+|---|---|---|---|---|
+| v1 (Control) | EF_Hook_v1_Macro.mp4 | Extreme Macro Pleat | IMG_0491 | 1.0s, 1.4× zoom |
+| v2 | EF_Hook_v2_Texture.mp4 | Texture Pull | IMG_0526 | 0.95s, 1.4× zoom |
+| v3 | EF_Hook_v3_Waistband.mp4 | Waistband Reveal | IMG_0572 | 0.7s, 1.4× zoom |
+| v4 | EF_Hook_v4_Pocket.mp4 | Pocket | IMG_0569 | 0.9s, 1.1× speed |
+| v5 | EF_Hook_v5_Silhouette.mp4 | Side Silhouette | IMG_0686 | 0.4s, standard |
+
+**What to measure:** 3-second view rate. Not ROAS. Not CTR. The 3-second view rate tells you whether the hook is working before any purchase intent is measured.
+
+**What to do with the result:** The variant with the highest 3-second view rate becomes the hook template for all future Framework 1 edits. Apply that same first second to every new batch of clips that fits the framework.
+
+---
+
+### Updated Order of Operations for the Editor
+
+1. **Select a hook** from the Hook Library before opening any clip.
+2. **Find the best 1–1.5 seconds** of that hook clip. This is your first cut.
+3. **Build the rest of the edit** to support the hook. Every subsequent cut either increases curiosity or demonstrates a unique product attribute.
+4. **Apply the pre-export checklist** (4 scroll-stop questions) before exporting.
+5. **Name the file** using the hook type: `EF_[Framework]_[HookType]_v[A/B/C].mp4`
+
+---
