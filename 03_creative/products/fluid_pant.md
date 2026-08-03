@@ -594,3 +594,112 @@ The most efficient way to find the winning hook is to run **5 variants of the sa
 5. **Name the file** using the hook type: `EF_[Framework]_[HookType]_v[A/B/C].mp4`
 
 ---
+
+---
+
+## §13 — Batch 2 Revision Brief (August 2026)
+
+> **The shift:** Stop thinking "I'm editing a fashion video." Think: "I'm revealing why these pants are different." Every cut should either increase curiosity, demonstrate texture, showcase drape, emphasize silhouette, or reinforce movement. Nothing else should survive the edit.
+
+---
+
+### The 8 Editing Principles
+
+**1. Spend 80% of your effort on the first second.**
+
+The opening determines whether the rest of the video matters. For every edit, build five different opening hooks using the same body of the video. Only change the first 1–1.5 seconds.
+
+**2. Crop tighter.**
+
+The pants should dominate the frame. If the shirt or face becomes the focal point, crop tighter or choose another shot. Aim for: waist to hem, pleats, texture, pocket, silhouette. The product should occupy roughly 60–80% of the frame whenever possible.
+
+**3. Edit around one hero shot.**
+
+Every ad should revolve around one memorable visual moment. Everything else supports that shot. Do not try to make every shot equally important.
+
+**4. Increase pacing.**
+
+Remove any hesitation or dead frames. The edit should feel native to Instagram and Meta. If a shot doesn't reveal something new, cut it.
+
+**5. Add subtle imperfection.**
+
+Don't make it feel like a cinematic commercial. Slight handheld movement and natural pacing are good. We want premium, but native.
+
+**6. Audio — test all five versions.**
+
+Export five versions of the strongest edit. Only change the audio. Everything else stays identical.
+
+| Version | Audio Style |
+|---|---|
+| v1 | Ambient / minimalist electronic |
+| v2 | Deep house |
+| v3 | Current trending Instagram/TikTok audio |
+| v4 | Light phonk |
+| v5 | ASMR only (fabric movement, footsteps, ambient room tone) |
+
+**7. Build three variations of the strongest framework.**
+
+Each should differ only in: first-second hook, pacing, ending. The middle of the edit should remain consistent.
+
+**8. Pre-export checklist.**
+
+Before exporting, answer these four questions:
+- Are the pants the first thing someone notices?
+- Does the first second create curiosity?
+- Does the edit demonstrate what makes these pants different?
+- Would this make someone stop scrolling before they know the brand?
+
+If the answer to any is no, revise the edit.
+
+---
+
+### The 5 Hook Sequences (Batch 2)
+
+| Hook | Sequence |
+|---|---|
+| **Hook A — Extreme Pleats** | Extreme pleated texture filling the frame → Reveal waistband → Walking |
+| **Hook B — Pocket** | Pocket interaction → Wide stride → Silhouette |
+| **Hook C — Side Profile** | Side-profile silhouette → Walking toward camera → Texture |
+| **Hook D — Low Angle** | Low-angle stride → Turn → Close-up |
+| **Hook E — Color Shift** | Color shift → Pleats → Walking |
+
+---
+
+### The Hook-Only Experiment
+
+> **The biggest addition from Batch 2:** Before building any full ads, create 10 opening hooks only (1–2 seconds each). Review these hook-only clips first. Identify the strongest opening. Once you know which hook consistently grabs attention, build full ads around that hook instead of guessing.
+
+**Batch 2 Hook Library (August 2026 — 10 clips):**
+
+| File | Hook Type | Source Clip | Timestamp | What the Viewer Sees |
+|---|---|---|---|---|
+| H01_ExtremePleatMacro.mp4 | Extreme Pleat Macro | IMG_0491 | 1.0s, 1.7× zoom | Fabric texture so close the garment is unidentifiable |
+| H02_PocketInteraction.mp4 | Pocket Interaction | IMG_0569 | 0.9s, 1.4× zoom | Hand slides into pocket, light catches the pleats |
+| H03_LowAngleStride.mp4 | Low Angle Stride | IMG_0543 | 0.6s, lower crop | Mid-stride, pleats fanning, no shirt in frame |
+| H04_ColorShiftLight.mp4 | Color Shift | IMG_0519 | 0.7s, 1.4× zoom | Cyan rim light against pink base — color shift only |
+| H05_HandBrushFabric.mp4 | Hand Brush / Discovery | IMG_0526 | 0.95s, 1.4× zoom | Model pulls fabric — discovery gesture |
+| H06_WaistbandDetail.mp4 | Waistband | IMG_0572 | 0.7s, 1.4× zoom | Shirt lifted to reveal waistband and pleat texture |
+| H07_HemWalking.mp4 | Hem in Motion | IMG_0637 | 1.2s, lower crop | Walking close-up on hem and lower leg |
+| H08_MirrorReflection.mp4 | Mirror | IMG_0575 | 1.5s, standard | Hand tugs fabric, mirror reflection above |
+| H09_SideSilhouette.mp4 | Side Silhouette | IMG_0686 | 0.4s, standard | Full-length side profile, wide-leg reads immediately |
+| H10_FullLengthWalkBy.mp4 | Walk-By / Knee Lift | IMG_0681 | 1.3s, standard | Knee lift and trouser grip — most energetic opening |
+
+---
+
+### Batch 2 Revised Edit — Project Recipe
+
+**File:** `EF_FW1_vB2_revised.mp4` | 6.57s | 1080×1920 | 30fps | no audio
+
+**Hero shot:** IMG_0543 mid-stride (the "these pants look different" moment). Everything else supports it.
+
+| Slot | Duration | Clip | Source Timestamp | Crop | Why |
+|---|---|---|---|---|---|
+| 1 — Hero | 1.57s | IMG_0543 | 0.6s | Lower+tight (1.4×, shirt removed) | Mid-stride hero. Pleats fan. Color shift visible. No shirt. |
+| 2 — Texture | 1.57s | IMG_0487 | 0.75s | Ultra tight (1.7×) | Confirms what the viewer saw in Slot 1. Pleat detail at maximum zoom. |
+| 3 — Reveal | 1.57s | IMG_0502 | 1.0s | Lower standard (shirt removed) | Legs separate — full pleat reveal. Slow walk. |
+| 4 — End | 1.87s | IMG_0684 | 1.5s | Standard | Wide stride silhouette. Final image. |
+
+**Pacing:** 1.5s per slot (vs 2.0s in v1). Faster. No dead frames.
+**Native feel:** Slot 2 starts 0.05s early (slightly imperfect entry).
+
+---
