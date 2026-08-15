@@ -127,9 +127,9 @@ Largely pause these until a deeper library of product-first assets is built. The
 
 ---
 
-## 6. Footage Asset Library — Higgsfield Batch (August 2026)
+## 6. Footage Asset Library — Rinat Production Shoot (August 2026)
 
-> **Scope:** This section covers the 261 raw clips from the August 2026 Higgsfield shoot. All tagging, scoring, and framework logic below is specific to the Fluid Pant. Other products will have their own equivalent sections in their respective files.
+> **Scope:** This section covers the 261 raw clips from Rinat's real-world Fluid Pant production shoot. These are production-camera clips, not Higgsfield or other AI-generated footage. All tagging, scoring, and framework logic below is specific to the Fluid Pant. AI-generated Fluid Pant assets should be tracked separately so synthetic and production footage are never conflated.
 
 ### Library Overview
 
