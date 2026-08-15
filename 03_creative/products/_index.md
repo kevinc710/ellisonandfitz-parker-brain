@@ -22,7 +22,7 @@ When generating a brief, hook, edit direction, or any creative output:
 
 | Product | Strategy File | Status | FITZ-CR ID Range | Notes |
 |---|---|---|---|---|
-| **Ellison Fluid Pant** | `03_creative/products/fluid_pant.md` | ✅ Active | CR-0061 to CR-0073 | Full strategy: 261-clip library, GOLD scoring, 5 editing frameworks, Hook Tournament (H01–H11), hook-first philosophy, 13 launch-ready ads |
+| **Ellison Fluid Pant** | [`fluid_pant/README.md`](fluid_pant/README.md) plus [`fluid_pant.md`](fluid_pant.md) | ✅ Active | CR-0061 to CR-0073 | Team knowledge pack for product, customer, creator, static, video, prompts, and operating rules; detailed 261-clip performance memory, GOLD scoring, editing frameworks, and Hook Tournament remain in `fluid_pant.md` |
 | **Tavo Stripe Short** | `03_creative/products/tavo_stripe_short.md` | 🟡 Performance data available | CR-0001 to CR-0060 | Top performers confirmed (see below). Dedicated strategy file not yet built — needs footage library, GOLD scoring, hook framework. |
 | **Cassius Knit Polo** | `03_creative/products/cassius_knit_polo.md` | 🔲 Not yet built | TBD | Needs its own footage library, GOLD scoring, hook framework, and editing strategy |
 | **Bren Sketch Short** | `03_creative/products/bren_sketch_short.md` | 🔲 Not yet built | TBD | Needs its own footage library, GOLD scoring, hook framework, and editing strategy |

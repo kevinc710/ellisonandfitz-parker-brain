@@ -4,6 +4,8 @@ This document serves as the persistent creative intelligence for the **Ellison F
 
 As new data comes in from Meta, this file should be updated to reflect the latest learnings.
 
+> **Team entry point:** For product facts, audience and creator context, static and creator operating rules, outreach templates, and AI prompting, use the [Fluid Pant Product Knowledge System](fluid_pant/README.md). This file remains the detailed creative-performance memory, footage library, and editing playbook.
+
 ## 1. The Core Creative Philosophy
 
 The biggest lesson from the August 2026 creative batch: **Stop thinking in terms of "ads." Think in terms of "micro-demonstrations."**
