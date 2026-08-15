@@ -1,5 +1,7 @@
 # Fluid Pant AI Context Pack
 
+> **Governance:** This is a convenience extract. [Fluid Pant Master Context](FLUID_PANT_CONTEXT.md) is the governing source for evidence status, source order, and no-cross-product-data-contamination rules. If this file conflicts with the Master Context, follow the Master Context.
+
 Copy the relevant section below into ChatGPT, an image model, a video model, or an internal AI tool before asking for Fluid Pant work.
 
 ## Core product context

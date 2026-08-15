@@ -6,15 +6,17 @@ Use this directory as the product-specific source of truth. It translates the br
 
 ## Start here
 
+**Required first read for every Fluid Pant task:** [Fluid Pant Master Context](FLUID_PANT_CONTEXT.md). It controls evidence status, source-of-truth order, and the no-cross-product-data-contamination rule.
+
 | If you need to... | Read this file first |
 |---|---|
-| Prompt ChatGPT, an image model, or a video model | [AI Context Pack](AI_CONTEXT_PACK.md) |
-| Check product facts, allowed claims, or current product link | [Product Truths and Claims Guardrails](01_product_truths_and_claims.md) |
-| Understand the customer and creator fit | [Customer and Creator Segments](02_customer_and_creator_segments.md) |
-| Personalize outreach and screen a potential creator | [Creator Outreach and Qualification](03_creator_outreach_and_qualification.md) |
-| Build a static, organic post, creator brief, or paid creative | [Creative Operating System](04_creative_operating_system.md) |
-| Run the workflow as a VA or editor | [VA and Team Workflow](05_va_and_team_workflow.md) |
-| Record what performs and update the context | [Learning Log](06_learning_log.md) |
+| Prompt ChatGPT, an image model, or a video model | [AI Agent System Prompt](prompts/ai_agent_system_prompt.md), [Higgsfield](prompts/higgsfield.md), [Nano Banana](prompts/nano_banana.md), and [AI Context Pack](AI_CONTEXT_PACK.md) |
+| Check product facts, allowed claims, product visuals, or current product link | [Product Overview](product/product_overview.md), [Product Accuracy Rules](product/product_accuracy_rules.md), and [Colorways](product/colorways.md) |
+| Understand the customer evidence, desires, and sub-avatar tests | [Core ICP](customer/core_icp.md), [Desires](customer/desires.md), and [Sub-Avatars](customer/sub_avatars.md) |
+| Personalize outreach and screen a potential creator | [Creator Outreach and Qualification](03_creator_outreach_and_qualification.md) and [Creator Prompts](prompts/ugc_creator_prompts.md) |
+| Build a static, organic post, creator brief, or paid creative | [Creative Strategy](creative/creative_strategy.md), [Static Frameworks](creative/static_frameworks.md), [Video Frameworks](creative/video_frameworks.md), and [Visual Signatures](creative/visual_signatures.md) |
+| Review current creative evidence and guardrails | [Winning Patterns](creative/winning_patterns.md), [Losing Patterns](creative/losing_patterns.md), and [Hook Library](creative/hook_library.md) |
+| Record what performs and update the context | [Account Learnings](research/account_learnings.md), [Testing History](research/testing_history.md), [Hypotheses](research/hypotheses.md), and [Learning Log](06_learning_log.md) |
 | Review the detailed paid-creative asset library and editing framework | [Fluid Pant Creative Memory](../fluid_pant.md) |
 
 ## The source-of-truth rule
@@ -57,6 +59,7 @@ Use the Fluid Pant AI Context Pack below. Create three 9:16 static-ad concepts f
 
 ## Non-negotiable rules
 
+- Read `FLUID_PANT_CONTEXT.md` before using any downstream file.
 - The pant is the hero. The person, setting, and copy support the product.
 - Start with a product differentiator, not a generic lifestyle setup.
 - Keep one idea per asset.
