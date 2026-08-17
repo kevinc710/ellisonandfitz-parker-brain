@@ -47,6 +47,16 @@ Currently working through a fulfillment issue: 85 units ordered from
 "Supplier A" are part of an active fulfillment crisis — see
 `05_roadmap/open_strategic_questions.md`.
 
+## Tavo Stripe Short
+
+A new high-performance winner in the shorts category.
+**Performance (Aug 2026):** $9,534 spend | 2.10x ROAS (Top Ad: "1")
+**Colorways:**
+- Cream (Best performer: 3.05x ROAS, 2.76% CTR)
+- Black
+- White
+**Visual Pattern:** On-model street photography with bold text overlays (benefit-led headlines + CTA buttons) is the current winning creative format. Flat-lays are currently underperforming.
+
 ## Tapstitch collection
 
 A 26-product collection built directly in Shopify
