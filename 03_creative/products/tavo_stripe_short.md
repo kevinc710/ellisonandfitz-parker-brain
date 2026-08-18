@@ -2,7 +2,13 @@
 
 This document tracks the creative intelligence for the **Tavo Stripe Short**. It isolates what is working for this specific product to avoid mixing context with the Fluid Pant.
 
-## 1. Performance Context (Aug 2026)
+## 1. Target Avatar: Marco (27-33)
+
+*   **Core Desire:** One high-quality piece that works everywhere (Beach to Street) without looking like he's trying too hard.
+*   **Hidden Desire:** *"I want people to assume I just naturally dress like this."*
+*   **Creative Filter:** Marco is an "Elevated Essentialist." Reject any inspiration that feels too loud, "gym-bro," or discount-focused. The visuals must feel sun-drenched, premium, and effortless (e.g., Yacht Club, Sailboat, Morning Coffee).
+
+## 2. Performance Context (Aug 2026)
 
 The Tavo Stripe Short is a breakout winner with **$9,534 spend** and a **2.10x ROAS** on the top-spending original ad ("1").
 
@@ -16,7 +22,7 @@ The Tavo Stripe Short is a breakout winner with **$9,534 spend** and a **2.10x R
 
 ---
 
-## 2. Creative Framework (Evolve Method)
+## 3. Creative Framework (Evolve Method)
 
 ### The "Micro-Demonstration" Shift
 Apply the same cinematography-first prompting used for the Fluid Pant, but tailored to the Tavo's specific hooks: **Fabric Texture (Stripes)** and **Versatility (Beach to Street).**
@@ -28,7 +34,7 @@ Apply the same cinematography-first prompting used for the Fluid Pant, but tailo
 
 ---
 
-## 3. Active Briefs (FITZ-CR-0079 to 0088)
+## 4. Active Briefs (FITZ-CR-0079 to 0088)
 
 These concepts are organized by tier to test distinct angles for the Tavo Stripe Short.
 
@@ -52,7 +58,7 @@ These concepts are organized by tier to test distinct angles for the Tavo Stripe
 
 ---
 
-## 4. Product-Specific Colorways
+## 5. Product-Specific Colorways
 **DO NOT use Fluid Pant colorways (Mixed Color, Violet Blue) for Tavo Shorts.**
 Use only:
 1. **Cream** (Primary winner)

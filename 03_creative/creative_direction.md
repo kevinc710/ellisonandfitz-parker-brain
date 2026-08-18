@@ -38,20 +38,21 @@ When a winner is detected (Emerging, Validated, or Scale), follow this 14-step p
 2. **Analyze Data:** Review ROAS, Spend, and Purchases to determine the "Tier."
 3. **Context Retrieval:** Read the specific product brain (e.g., `products/fluid_pant.md`) for current winning patterns.
 4. **Check History:** Verify if iterations for this specific winner already exist to avoid duplicates.
-5. **Foreplay Research:** Pull relevant competitor references from the Foreplay boards.
-6. **Single-Variable Selection:** Choose ONE primary variable to isolate (Hook, Copy, Visual, Format, Angle, or Social Proof).
-7. **Brief Writing:** Write new briefs to the Ad Batches sheet, identifying the Parent Winner and the Variable Changed.
-8. **Melius Batching:** Build the Melius-ready prompts with correct subject references.
-9. **Asset Logging:** Add the Melius job/asset links to the sheet.
+5. **Avatar Alignment Filter:** Check the primary avatar (Alex for Fluid Pant, Marco for Tavo Short) for the specific product.
+6. **Foreplay Research:** Pull relevant competitor references from the Foreplay boards. REJECT any inspiration that violates the avatar's core/hidden desires (e.g., too loud, too generic).
+7. **Single-Variable Selection:** Choose ONE primary variable to isolate (Hook, Copy, Visual, Format, Angle, or Social Proof).
+8. **Brief Writing:** Write new briefs to the Ad Batches sheet, identifying the Parent Winner and the Variable Changed.
+9. **Melius Batching:** Build the Melius-ready prompts with correct subject references.
+10. **Asset Logging:** Add the Melius job/asset links to the sheet.
 
 ### 2. QA & Approval Gate
-10. **Creative QA:** Check product fidelity (correct colorway/texture), copy accuracy (no placeholders), branding, anatomy, realism, and 9:16 aspect ratio.
-11. **Approval Gate:** Mark as "Needs Review" in the sheet. Require human approval before moving to "Ready to Launch."
+11. **Creative QA:** Check product fidelity (correct colorway/texture), copy accuracy (no placeholders), branding, anatomy, realism, and 9:16 aspect ratio.
+12. **Approval Gate:** Mark as "Needs Review" in the sheet. Require human approval before moving to "Ready to Launch."
 
 ### 3. Launch & Feedback
-12. **Launch Logging:** Once live, add the Meta Ad ID and Launch Date to the creative record.
-13. **Learning Loop:** After 7 days of spend, feed performance (ROAS/CPA) back into the parent concept.
-14. **Brain Update:** Update the Product Memory file with the new winning/losing variable.
+13. **Launch Logging:** Once live, add the Meta Ad ID and Launch Date to the creative record.
+14. **Learning Loop:** After 7 days of spend, feed performance (ROAS/CPA) back into the parent concept.
+15. **Brain Update:** Update the Product Memory file with the new winning/losing variable.
 
 ## Winner Classification Tiers
 - **Emerging Winner:** $50+ spend, 2.2+ ROAS, 2+ sales.

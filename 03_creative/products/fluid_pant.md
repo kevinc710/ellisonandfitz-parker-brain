@@ -6,7 +6,13 @@ As new data comes in from Meta, this file should be updated to reflect the lates
 
 > **Team entry point:** For product facts, audience and creator context, static and creator operating rules, outreach templates, and AI prompting, use the [Fluid Pant Product Knowledge System](fluid_pant/README.md). This file remains the detailed creative-performance memory, footage library, and editing playbook.
 
-## 1. The Core Creative Philosophy
+## 1. Target Avatar: Alex (26-34)
+
+*   **Core Desire:** Clothing that stands out through superior design and silhouette, not loud logos.
+*   **Hidden Desire:** *"I want people to think I naturally have great taste."*
+*   **Creative Filter:** Alex is a "Design Individualist." Reject any inspiration that feels too mainstream, generic professional, or overly "gym-bro." The visuals must feel architectural and intentional.
+
+## 2. The Core Creative Philosophy
 
 The biggest lesson from the August 2026 creative batch: **Stop thinking in terms of "ads." Think in terms of "micro-demonstrations."**
 
@@ -36,7 +42,7 @@ If a clip answers more than one question, it is trying to do too much. If it ans
 
 ---
 
-## 2. Proven Winners (Tier 1)
+## 3. Proven Winners (Tier 1)
 
 These concepts align best with proven winners and deserve the most iteration and budget.
 
@@ -49,7 +55,7 @@ These concepts align best with proven winners and deserve the most iteration and
 
 ---
 
-## 3. The Next Generation (Phase 2 Concepts)
+## 4. The Next Generation (Phase 2 Concepts)
 
 This is the active testing ground. These concepts represent the new "micro-demonstration" philosophy and are the highest priority for new generation.
 
@@ -105,7 +111,7 @@ This is the active testing ground. These concepts represent the new "micro-demon
 
 ---
 
-## 4. Supporting Assets (Tier 2)
+## 5. Supporting Assets (Tier 2)
 
 These support the funnel but aren't the core creative engine. Keep them in rotation but do not prioritize for heavy iteration.
 
@@ -115,7 +121,7 @@ These support the funnel but aren't the core creative engine. Keep them in rotat
 
 ---
 
-## 5. Paused / Deprioritized (Tier 3)
+## 6. Paused / Deprioritized (Tier 3)
 
 Largely pause these until a deeper library of product-first assets is built. They are not inherently bad, but they are not the best use of generation time right now.
 
@@ -127,7 +133,7 @@ Largely pause these until a deeper library of product-first assets is built. The
 
 ---
 
-## 6. Footage Asset Library — Higgsfield Batch (August 2026)
+## 7. Footage Asset Library — Higgsfield Batch (August 2026)
 
 > **Scope:** This section covers the 261 raw clips from the August 2026 Higgsfield shoot. All tagging, scoring, and framework logic below is specific to the Fluid Pant. Other products will have their own equivalent sections in their respective files.
 
@@ -208,7 +214,7 @@ Every GOLD clip was scored by AI across four questions. The editor (Daniela) sho
 
 ---
 
-## 7. The 5 Editing Frameworks
+## 8. The 5 Editing Frameworks
 
 > Each framework is a reusable 4-slot sequence. Swap GOLD clips into each slot to generate dozens of ads. Build one master edit per framework before creating any variations.
 
