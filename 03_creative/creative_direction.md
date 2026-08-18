@@ -18,7 +18,8 @@ Product-led, motion-first video ads. The fabric itself is the hero.
 
 ## Team
 
-- **Daniela** — video editor, executes on creative direction
+- **Kevin & Leandro** — Founders, Creative Strategists & Operations Leads. Shared strategic leadership over the creative flywheel.
+- **Daniela** — Video editor, executes on creative direction.
 
 ## Storage
 
