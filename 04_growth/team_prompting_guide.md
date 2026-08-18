@@ -1,7 +1,7 @@
 # Ellison & Fitz: Team Prompting Guide & Operating Manual
 
 ## 1. Introduction: The Manus-First Architecture
-To eliminate fragmentation, the Ellison & Fitz creative operations run on a **Manus-First Operating System**. Instead of maintaining a separate, custom-built dashboard UI or managing messy spreadsheets manually, the entire team (Kevin, Daniela, Leandro) interacts directly with Manus through the shared project interface.
+To eliminate fragmentation, the Ellison & Fitz creative operations run on a **Manus-First Operating System**. Instead of maintaining a separate, custom-built dashboard UI or managing messy spreadsheets manually, the entire leadership team (Kevin, Leandro) and creative execution (Daniela) interact directly with Manus through the shared project interface.
 
 Manus acts as the **Creative Director, Producer, and Data Orchestrator**. Behind the scenes, Manus reads the GitHub Brand Brain, queries Meta Ads via Pipeboard, generates assets via Melius, logs data to Google Sheets, and posts alerts to Slack. 
 
@@ -11,12 +11,13 @@ The team's role is simple: **Talk to Manus.**
 
 ## 2. Core Team Roles & Chat Triggers
 
-### Kevin (Founder & Strategist)
-*   **Primary Objective:** Scaling winning ad angles, approving production batches, and reviewing macro performance.
+### Kevin & Leandro (Founders, Creative Strategists & Operations Leads)
+*   **Primary Objective:** Driving brand growth, identifying winning ad angles, co-steering the creative flywheel, managing media buying performance, and approving production batches.
 *   **Key Prompt Templates:**
-    *   *"E&F, show me the top 3 winning ads across all active products this week."*
+    *   *"E&F, show me the top winning ads across all active products and their graduation tiers."*
     *   *"E&F, generate three single-variable Melius iterations for our highest-spend validated Tavo Short winner."*
-    *   *"E&F, review the Google Sheet and give me a summary of what is currently 'Ready to Launch'."*
+    *   *"E&F, analyze our last 7 days of Meta spend vs revenue and suggest where we should pivot our creative angle."*
+    *   *"E&F, export all creatives currently marked 'Ready to Launch' into a clean launch manifest for media buying."*
 
 ### Daniela (Video Editor & Creative Execution)
 *   **Primary Objective:** Executing on visual direction, assembling master edits from Melius assets, and applying post-production text overlays (Montserrat headlines, CTA buttons).
@@ -24,12 +25,6 @@ The team's role is simple: **Talk to Manus.**
     *   *"E&F, give me the raw asset links and prompting notes for the latest batch of 'Needs Review' Tavo shorts."*
     *   *"E&F, retrieve the top 5 GOLD clips for the Ellison Fluid Pant from the asset library."*
     *   *"E&F, what are the approved colorways and typography rules for the current Tavo batch?"*
-
-### Leandro (Media Buying & Launch)
-*   **Primary Objective:** Bulk launching approved assets into Meta Ads Manager, monitoring ad set performance, and feeding ROAS data back into the system.
-*   **Key Prompt Templates:**
-    *   *"E&F, export all creatives currently marked 'Ready to Launch' into a clean launch manifest."*
-    *   *"E&F, verify if the latest Tavo iteration batch has all required UTM parameters and asset links."*
 
 ---
 
