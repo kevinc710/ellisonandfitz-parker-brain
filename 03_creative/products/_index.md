@@ -22,25 +22,37 @@ When generating a brief, hook, edit direction, or any creative output:
 
 | Product | Strategy File | Status | FITZ-CR ID Range | Notes |
 |---|---|---|---|---|
-| **Ellison Fluid Pant** | [`fluid_pant/README.md`](fluid_pant/README.md) plus [`fluid_pant.md`](fluid_pant.md) | ✅ Active | CR-0061 to CR-0073 | Team knowledge pack for product, customer, creator, static, video, prompts, and operating rules; detailed 261-clip performance memory, GOLD scoring, editing frameworks, and Hook Tournament remain in `fluid_pant.md` |
-| **Tavo Stripe Short** | `03_creative/products/tavo_stripe_short.md` | 🟡 Performance data available | CR-0001 to CR-0060 | Top performers confirmed (see below). Dedicated strategy file not yet built — needs footage library, GOLD scoring, hook framework. |
-| **Cassius Knit Polo** | `03_creative/products/cassius_knit_polo.md` | 🔲 Not yet built | TBD | Needs its own footage library, GOLD scoring, hook framework, and editing strategy |
-| **Bren Sketch Short** | `03_creative/products/bren_sketch_short.md` | 🔲 Not yet built | TBD | Needs its own footage library, GOLD scoring, hook framework, and editing strategy |
-| **Denzo Knit Pullover** | `03_creative/products/denzo_knit_pullover.md` | 🔲 Not yet built | TBD | Needs its own footage library, GOLD scoring, hook framework, and editing strategy |
+| **Ellison Fluid Pant** | `03_creative/products/fluid_pant.md` | ✅ Active | CR-0061 to CR-0074, CR-0078, CR-0089, CR-0091, CR-0093, CR-0100 to CR-0107 | Full strategy: 261-clip library, GOLD scoring, 5 editing frameworks, Hook Tournament, hook-first philosophy, and the Fluid Pant Visual Test Batch 2 |
+| **Tavo Stripe Short** | `03_creative/products/tavo_stripe_short.md` | 🟡 Performance data available | CR-0001 to CR-0060; CR-0075; CR-0079 to CR-0088; CR-0090; CR-0092; CR-0094 to CR-0099 | Top performers confirmed below. Dedicated footage strategy file still needs to be built before new product-specific creative is produced. |
+| **Cassius Knit Polo** | `03_creative/products/cassius_knit_polo.md` | 🔲 Not yet built | CR-0077 | One tracker entry exists, but it does not replace the need for a dedicated footage library, GOLD scoring, hook framework, and editing strategy. |
+| **Bren Sketch Short** | `03_creative/products/bren_sketch_short.md` | 🔲 Not yet built | CR-0076 | One tracker entry exists, but it does not replace the need for a dedicated footage library, GOLD scoring, hook framework, and editing strategy. |
+| **Denzo Knit Pullover** | `03_creative/products/denzo_knit_pullover.md` | 🔲 Not yet built | None confirmed | Needs its own footage library, GOLD scoring, hook framework, and editing strategy. |
 
 ---
 
-## FITZ-CR ID → Product Mapping
+## FITZ-CR ID to Product Mapping
 
-The Ad Batches tab in the Google Sheet (column O: **Product**) is the authoritative source for product tagging. Use column O to filter performance data by product. The confirmed ranges are:
+The Ad Batches tab in the Google Sheet, column O: **Product**, is the authoritative source for every product tag. IDs became noncontiguous once multiple product workflows ran in parallel. Never infer a product from an ID number or from an ad name.
 
-| FITZ-CR Range | Product |
+| FITZ-CR IDs | Product |
 |---|---|
 | CR-0001 to CR-0060 | Tavo Stripe Short |
-| CR-0061 to CR-0073 | Fluid Pant |
-| CR-0074+ | TBD (assign at time of creation) |
+| CR-0061 to CR-0073 | Ellison Fluid Pant |
+| CR-0074 | Ellison Fluid Pant |
+| CR-0075 | Tavo Stripe Short |
+| CR-0076 | Bren Sketch Short |
+| CR-0077 | Cassius Knit Polo |
+| CR-0078 | Ellison Fluid Pant |
+| CR-0079 to CR-0088 | Tavo Stripe Short |
+| CR-0089 | Ellison Fluid Pant |
+| CR-0090 | Tavo Stripe Short |
+| CR-0091 | Ellison Fluid Pant |
+| CR-0092 | Tavo Stripe Short |
+| CR-0093 | Ellison Fluid Pant |
+| CR-0094 to CR-0099 | Tavo Stripe Short |
+| CR-0100 to CR-0107 | Ellison Fluid Pant |
 
-**When Parker is asked about product performance, always filter by column O (Product) in the Ad Batches sheet — never infer product from ad names alone.**
+**When Parker is asked about product performance, it must filter using column O: Product in the Ad Batches sheet. The only permitted legacy fallback is CR-0001 to CR-0060 for Tavo Stripe Short and CR-0061 to CR-0073 for Ellison Fluid Pant.**
 
 ---
 
@@ -64,15 +76,15 @@ These are the top-performing Tavo Stripe Short creatives based on confirmed Meta
 
 When a new product is ready for ad creative production:
 
-1. Create a new file: `03_creative/products/{product_slug}.md`
-2. Add it to the registry table above with status ✅ Active and assign the next FITZ-CR ID range
-3. Run the `ef-ad-creative` skill (see `/home/ubuntu/skills/ef-ad-creative/SKILL.md`) to build:
-   - Footage tagging and GOLD library
-   - Hook Tournament clips
-   - 5 editing frameworks specific to that product's differentiators
-   - Performance tracker
-4. Update the dashboard's `buildSystemPrompt` function to include the new product in the detection list
-5. Tag all new rows in the Ad Batches sheet column O with the correct product name
+1. Create a new file: `03_creative/products/{product_slug}.md`.
+2. Add it to the registry table above with status ✅ Active. Do not reserve a numeric product range because creative IDs may be interleaved across product workflows.
+3. Run the `ef-ad-creative` skill to build:
+   - Footage tagging and GOLD library.
+   - Hook Tournament clips.
+   - Five editing frameworks specific to that product's differentiators.
+   - Performance tracker.
+4. Update the dashboard's `buildSystemPrompt` function to include the new product in the detection list.
+5. Tag every new row in column O: Product of the Ad Batches sheet with the exact product name. Treat that column as the product source of truth.
 
 ---
 
